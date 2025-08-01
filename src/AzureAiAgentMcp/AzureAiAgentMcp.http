@@ -1,0 +1,6 @@
+@AzureAiAgentMcp_HostAddress = http://localhost:5100
+
+GET {{AzureAiAgentMcp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
